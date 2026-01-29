@@ -3,6 +3,11 @@ Repositorio de una página web publicada con **GitHub Pages** que centraliza apu
 
 ## 🌐 Demo
 👉 https://Samuel-M-I.github.io/Cicuitos-DC/
+##Apuntes
+[Apunte 1](https://Samuel-M-I.github.io/Cicuitos-DC/Apuntes%201.pdf)
+[Apunte 2](https://Samuel-M-I.github.io/Cicuitos-DC/Apuntes%202.pdf)
+[Apunte 3](https://Samuel-M-I.github.io/Cicuitos-DC/Apuntes%203.pdf)
+[Apunte 4](https://Samuel-M-I.github.io/Cicuitos-DC/Apuntes%204.pdf)
 
 ## 📌 Contenido
 - Apuntes técnicos organizados por tema
